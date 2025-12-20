@@ -2,7 +2,8 @@
 
 ## 🌐 Full-Stack Developer | AI & Mobile Enthusiast
 
-Building **scalable web and mobile applications** with a focus on **clean, efficient, and maintainable code**. Experienced in **end-to-end development**, **API integrations**, **database design**, **modern DevOps practices**, and **AI-powered solutions**.
+Building **scalable web & mobile applications** with a focus on **clean, efficient, and maintainable code**.  
+Experienced in **end-to-end development**, **API integrations**, **database design**, **DevOps**, and **AI-powered solutions**.
 
 ---
 
@@ -11,19 +12,18 @@ Building **scalable web and mobile applications** with a focus on **clean, effic
 **Frontend / Mobile:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-**AI & Machine Learning:**  
+**AI & ML:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -40,15 +40,15 @@ Building **scalable web and mobile applications** with a focus on **clean, effic
 ---
 
 ### 🔹 About Me
-- Focused on **clean, maintainable, and efficient code**.  
-- Skilled in **end-to-end development** for web, mobile, and AI-driven applications.  
-- Experienced in **API integrations**, **database design**, **DevOps**, and **AI/ML pipelines**.  
+- Focused on **clean, maintainable, and efficient code**  
+- Skilled in **full-stack development** and **AI-driven applications**  
+- Experienced in **API integrations**, **database design**, **DevOps**, and **MLOps**
 
 ---
 
 ### 🌱 Currently Learning
 - Advanced **cloud-native architectures**  
-- **Microservices** and **serverless design patterns**  
+- **Microservices** & **serverless design patterns**  
 - **AI/ML model deployment** and **MLOps best practices**  
 
 ---
